@@ -1,54 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nadin\\source\\repos\\C#AdvancedTopics_Kurs\\C#AdvancedTopics_Course\\",
+  "WorkspaceRootPath": "C:\\Users\\nberger\\source\\repos\\CSharpAdvancedTopics_Course\\C#AdvancedTopics_Course\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A05E6058-B7AC-4A99-B386-CB66DEB10358}|Delegates\\Delegates.csproj|c:\\users\\nadin\\source\\repos\\c#advancedtopics_kurs\\c#advancedtopics_course\\delegates\\photoprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A05E6058-B7AC-4A99-B386-CB66DEB10358}|Delegates\\Delegates.csproj|solutionrelative:delegates\\photoprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6B427AF-98CA-44BB-AC99-CC8096F7CCFC}|LINQ\\LINQ.csproj|c:\\users\\nberger\\source\\repos\\csharpadvancedtopics_course\\c#advancedtopics_course\\linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B427AF-98CA-44BB-AC99-CC8096F7CCFC}|LINQ\\LINQ.csproj|solutionrelative:linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A05E6058-B7AC-4A99-B386-CB66DEB10358}|Delegates\\Delegates.csproj|c:\\users\\nadin\\source\\repos\\c#advancedtopics_kurs\\c#advancedtopics_course\\delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A05E6058-B7AC-4A99-B386-CB66DEB10358}|Delegates\\Delegates.csproj|solutionrelative:delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6B427AF-98CA-44BB-AC99-CC8096F7CCFC}|LINQ\\LINQ.csproj|c:\\users\\nberger\\source\\repos\\csharpadvancedtopics_course\\c#advancedtopics_course\\linq\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B427AF-98CA-44BB-AC99-CC8096F7CCFC}|LINQ\\LINQ.csproj|solutionrelative:linq\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A05E6058-B7AC-4A99-B386-CB66DEB10358}|Delegates\\Delegates.csproj|c:\\users\\nadin\\source\\repos\\c#advancedtopics_kurs\\c#advancedtopics_course\\delegates\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A05E6058-B7AC-4A99-B386-CB66DEB10358}|Delegates\\Delegates.csproj|solutionrelative:delegates\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6B427AF-98CA-44BB-AC99-CC8096F7CCFC}|LINQ\\LINQ.csproj|c:\\users\\nberger\\source\\repos\\csharpadvancedtopics_course\\c#advancedtopics_course\\linq\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B427AF-98CA-44BB-AC99-CC8096F7CCFC}|LINQ\\LINQ.csproj|solutionrelative:linq\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A05E6058-B7AC-4A99-B386-CB66DEB10358}|Delegates\\Delegates.csproj|c:\\users\\nadin\\source\\repos\\c#advancedtopics_kurs\\c#advancedtopics_course\\delegates\\photofilters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A05E6058-B7AC-4A99-B386-CB66DEB10358}|Delegates\\Delegates.csproj|solutionrelative:delegates\\photofilters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A20DE065-34C2-4606-BF93-ED4C7534A639}|ExtensionMethods\\ExtensionMethods.csproj|c:\\users\\nberger\\source\\repos\\csharpadvancedtopics_course\\c#advancedtopics_course\\extensionmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A20DE065-34C2-4606-BF93-ED4C7534A639}|ExtensionMethods\\ExtensionMethods.csproj|solutionrelative:extensionmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6986EC2-E94F-4B29-A082-A56ECE4B6532}|Generics\\Generics.csproj|c:\\users\\nadin\\source\\repos\\c#advancedtopics_kurs\\c#advancedtopics_course\\generics\\constraints\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6986EC2-E94F-4B29-A082-A56ECE4B6532}|Generics\\Generics.csproj|solutionrelative:generics\\constraints\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A20DE065-34C2-4606-BF93-ED4C7534A639}|ExtensionMethods\\ExtensionMethods.csproj|c:\\users\\nberger\\source\\repos\\csharpadvancedtopics_course\\c#advancedtopics_course\\extensionmethods\\stringextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A20DE065-34C2-4606-BF93-ED4C7534A639}|ExtensionMethods\\ExtensionMethods.csproj|solutionrelative:extensionmethods\\stringextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6986EC2-E94F-4B29-A082-A56ECE4B6532}|Generics\\Generics.csproj|c:\\users\\nadin\\source\\repos\\c#advancedtopics_kurs\\c#advancedtopics_course\\generics\\constraints\\nullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6986EC2-E94F-4B29-A082-A56ECE4B6532}|Generics\\Generics.csproj|solutionrelative:generics\\constraints\\nullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3BBE149C-15C1-4FBD-809E-D863E1BE3AD8}|EventsAndDelegates\\EventsAndDelegates.csproj|c:\\users\\nberger\\source\\repos\\csharpadvancedtopics_course\\c#advancedtopics_course\\eventsanddelegates\\videoencoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BBE149C-15C1-4FBD-809E-D863E1BE3AD8}|EventsAndDelegates\\EventsAndDelegates.csproj|solutionrelative:eventsanddelegates\\videoencoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6986EC2-E94F-4B29-A082-A56ECE4B6532}|Generics\\Generics.csproj|c:\\users\\nadin\\source\\repos\\c#advancedtopics_kurs\\c#advancedtopics_course\\generics\\generics.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F6986EC2-E94F-4B29-A082-A56ECE4B6532}|Generics\\Generics.csproj|solutionrelative:generics\\generics.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{3BBE149C-15C1-4FBD-809E-D863E1BE3AD8}|EventsAndDelegates\\EventsAndDelegates.csproj|c:\\users\\nberger\\source\\repos\\csharpadvancedtopics_course\\c#advancedtopics_course\\eventsanddelegates\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BBE149C-15C1-4FBD-809E-D863E1BE3AD8}|EventsAndDelegates\\EventsAndDelegates.csproj|solutionrelative:eventsanddelegates\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6986EC2-E94F-4B29-A082-A56ECE4B6532}|Generics\\Generics.csproj|c:\\users\\nadin\\source\\repos\\c#advancedtopics_kurs\\c#advancedtopics_course\\generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6986EC2-E94F-4B29-A082-A56ECE4B6532}|Generics\\Generics.csproj|solutionrelative:generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3BBE149C-15C1-4FBD-809E-D863E1BE3AD8}|EventsAndDelegates\\EventsAndDelegates.csproj|c:\\users\\nberger\\source\\repos\\csharpadvancedtopics_course\\c#advancedtopics_course\\eventsanddelegates\\videoeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BBE149C-15C1-4FBD-809E-D863E1BE3AD8}|EventsAndDelegates\\EventsAndDelegates.csproj|solutionrelative:eventsanddelegates\\videoeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6986EC2-E94F-4B29-A082-A56ECE4B6532}|Generics\\Generics.csproj|c:\\users\\nadin\\source\\repos\\c#advancedtopics_kurs\\c#advancedtopics_course\\generics\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6986EC2-E94F-4B29-A082-A56ECE4B6532}|Generics\\Generics.csproj|solutionrelative:generics\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3BBE149C-15C1-4FBD-809E-D863E1BE3AD8}|EventsAndDelegates\\EventsAndDelegates.csproj|c:\\users\\nberger\\source\\repos\\csharpadvancedtopics_course\\c#advancedtopics_course\\eventsanddelegates\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BBE149C-15C1-4FBD-809E-D863E1BE3AD8}|EventsAndDelegates\\EventsAndDelegates.csproj|solutionrelative:eventsanddelegates\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6986EC2-E94F-4B29-A082-A56ECE4B6532}|Generics\\Generics.csproj|c:\\users\\nadin\\source\\repos\\c#advancedtopics_kurs\\c#advancedtopics_course\\generics\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6986EC2-E94F-4B29-A082-A56ECE4B6532}|Generics\\Generics.csproj|solutionrelative:generics\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3BBE149C-15C1-4FBD-809E-D863E1BE3AD8}|EventsAndDelegates\\EventsAndDelegates.csproj|c:\\users\\nberger\\source\\repos\\csharpadvancedtopics_course\\c#advancedtopics_course\\eventsanddelegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BBE149C-15C1-4FBD-809E-D863E1BE3AD8}|EventsAndDelegates\\EventsAndDelegates.csproj|solutionrelative:eventsanddelegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6986EC2-E94F-4B29-A082-A56ECE4B6532}|Generics\\Generics.csproj|c:\\users\\nadin\\source\\repos\\c#advancedtopics_kurs\\c#advancedtopics_course\\generics\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6986EC2-E94F-4B29-A082-A56ECE4B6532}|Generics\\Generics.csproj|solutionrelative:generics\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6986EC2-E94F-4B29-A082-A56ECE4B6532}|Generics\\Generics.csproj|c:\\users\\nadin\\source\\repos\\c#advancedtopics_kurs\\c#advancedtopics_course\\generics\\booklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6986EC2-E94F-4B29-A082-A56ECE4B6532}|Generics\\Generics.csproj|solutionrelative:generics\\booklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3BBE149C-15C1-4FBD-809E-D863E1BE3AD8}|EventsAndDelegates\\EventsAndDelegates.csproj|c:\\users\\nberger\\source\\repos\\csharpadvancedtopics_course\\c#advancedtopics_course\\eventsanddelegates\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BBE149C-15C1-4FBD-809E-D863E1BE3AD8}|EventsAndDelegates\\EventsAndDelegates.csproj|solutionrelative:eventsanddelegates\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,163 +54,140 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PhotoFilters.cs",
-              "DocumentMoniker": "C:\\Users\\nadin\\source\\repos\\C#AdvancedTopics_Kurs\\C#AdvancedTopics_Course\\Delegates\\PhotoFilters.cs",
-              "RelativeDocumentMoniker": "Delegates\\PhotoFilters.cs",
-              "ToolTip": "C:\\Users\\nadin\\source\\repos\\C#AdvancedTopics_Kurs\\C#AdvancedTopics_Course\\Delegates\\PhotoFilters.cs",
-              "RelativeToolTip": "Delegates\\PhotoFilters.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nberger\\source\\repos\\CSharpAdvancedTopics_Course\\C#AdvancedTopics_Course\\LINQ\\BookRepository.cs",
+              "RelativeDocumentMoniker": "LINQ\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\nberger\\source\\repos\\CSharpAdvancedTopics_Course\\C#AdvancedTopics_Course\\LINQ\\BookRepository.cs",
+              "RelativeToolTip": "LINQ\\BookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T09:25:11.027Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PhotoProcessor.cs",
-              "DocumentMoniker": "C:\\Users\\nadin\\source\\repos\\C#AdvancedTopics_Kurs\\C#AdvancedTopics_Course\\Delegates\\PhotoProcessor.cs",
-              "RelativeDocumentMoniker": "Delegates\\PhotoProcessor.cs",
-              "ToolTip": "C:\\Users\\nadin\\source\\repos\\C#AdvancedTopics_Kurs\\C#AdvancedTopics_Course\\Delegates\\PhotoProcessor.cs",
-              "RelativeToolTip": "Delegates\\PhotoProcessor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T09:24:25.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T15:32:17.002Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Photo.cs",
-              "DocumentMoniker": "C:\\Users\\nadin\\source\\repos\\C#AdvancedTopics_Kurs\\C#AdvancedTopics_Course\\Delegates\\Photo.cs",
-              "RelativeDocumentMoniker": "Delegates\\Photo.cs",
-              "ToolTip": "C:\\Users\\nadin\\source\\repos\\C#AdvancedTopics_Kurs\\C#AdvancedTopics_Course\\Delegates\\Photo.cs",
-              "RelativeToolTip": "Delegates\\Photo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\nberger\\source\\repos\\CSharpAdvancedTopics_Course\\C#AdvancedTopics_Course\\LINQ\\Book.cs",
+              "RelativeDocumentMoniker": "LINQ\\Book.cs",
+              "ToolTip": "C:\\Users\\nberger\\source\\repos\\CSharpAdvancedTopics_Course\\C#AdvancedTopics_Course\\LINQ\\Book.cs",
+              "RelativeToolTip": "LINQ\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T09:23:43.696Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T15:31:46.922Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nadin\\source\\repos\\C#AdvancedTopics_Kurs\\C#AdvancedTopics_Course\\Delegates\\Program.cs",
-              "RelativeDocumentMoniker": "Delegates\\Program.cs",
-              "ToolTip": "C:\\Users\\nadin\\source\\repos\\C#AdvancedTopics_Kurs\\C#AdvancedTopics_Course\\Delegates\\Program.cs",
-              "RelativeToolTip": "Delegates\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\nberger\\source\\repos\\CSharpAdvancedTopics_Course\\C#AdvancedTopics_Course\\LINQ\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ\\Program.cs",
+              "ToolTip": "C:\\Users\\nberger\\source\\repos\\CSharpAdvancedTopics_Course\\C#AdvancedTopics_Course\\LINQ\\Program.cs",
+              "RelativeToolTip": "LINQ\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCAAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T09:23:36.324Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Nullable.cs",
-              "DocumentMoniker": "C:\\Users\\nadin\\source\\repos\\C#AdvancedTopics_Kurs\\C#AdvancedTopics_Course\\Generics\\Constraints\\Nullable.cs",
-              "RelativeDocumentMoniker": "Generics\\Constraints\\Nullable.cs",
-              "ToolTip": "C:\\Users\\nadin\\source\\repos\\C#AdvancedTopics_Kurs\\C#AdvancedTopics_Course\\Generics\\Constraints\\Nullable.cs",
-              "RelativeToolTip": "Generics\\Constraints\\Nullable.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T08:49:12.186Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Generics",
-              "DocumentMoniker": "C:\\Users\\nadin\\source\\repos\\C#AdvancedTopics_Kurs\\C#AdvancedTopics_Course\\Generics\\Generics.csproj",
-              "RelativeDocumentMoniker": "Generics\\Generics.csproj",
-              "ToolTip": "C:\\Users\\nadin\\source\\repos\\C#AdvancedTopics_Kurs\\C#AdvancedTopics_Course\\Generics\\Generics.csproj",
-              "RelativeToolTip": "Generics\\Generics.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-01T08:02:51.369Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\nadin\\source\\repos\\C#AdvancedTopics_Kurs\\C#AdvancedTopics_Course\\Generics\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Generics\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\nadin\\source\\repos\\C#AdvancedTopics_Kurs\\C#AdvancedTopics_Course\\Generics\\Models\\Product.cs",
-              "RelativeToolTip": "Generics\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T08:43:01.073Z",
+              "WhenOpened": "2024-12-02T15:31:40.777Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Utilities.cs",
-              "DocumentMoniker": "C:\\Users\\nadin\\source\\repos\\C#AdvancedTopics_Kurs\\C#AdvancedTopics_Course\\Generics\\Constraints\\Utilities.cs",
-              "RelativeDocumentMoniker": "Generics\\Constraints\\Utilities.cs",
-              "ToolTip": "C:\\Users\\nadin\\source\\repos\\C#AdvancedTopics_Kurs\\C#AdvancedTopics_Course\\Generics\\Constraints\\Utilities.cs",
-              "RelativeToolTip": "Generics\\Constraints\\Utilities.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Title": "StringExtension.cs",
+              "DocumentMoniker": "C:\\Users\\nberger\\source\\repos\\CSharpAdvancedTopics_Course\\C#AdvancedTopics_Course\\ExtensionMethods\\StringExtension.cs",
+              "RelativeDocumentMoniker": "ExtensionMethods\\StringExtension.cs",
+              "ToolTip": "C:\\Users\\nberger\\source\\repos\\CSharpAdvancedTopics_Course\\C#AdvancedTopics_Course\\ExtensionMethods\\StringExtension.cs",
+              "RelativeToolTip": "ExtensionMethods\\StringExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T08:12:29.275Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T14:21:24.547Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "List.cs",
-              "DocumentMoniker": "C:\\Users\\nadin\\source\\repos\\C#AdvancedTopics_Kurs\\C#AdvancedTopics_Course\\Generics\\List.cs",
-              "RelativeDocumentMoniker": "Generics\\List.cs",
-              "ToolTip": "C:\\Users\\nadin\\source\\repos\\C#AdvancedTopics_Kurs\\C#AdvancedTopics_Course\\Generics\\List.cs",
-              "RelativeToolTip": "Generics\\List.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nberger\\source\\repos\\CSharpAdvancedTopics_Course\\C#AdvancedTopics_Course\\ExtensionMethods\\Program.cs",
+              "RelativeDocumentMoniker": "ExtensionMethods\\Program.cs",
+              "ToolTip": "C:\\Users\\nberger\\source\\repos\\CSharpAdvancedTopics_Course\\C#AdvancedTopics_Course\\ExtensionMethods\\Program.cs",
+              "RelativeToolTip": "ExtensionMethods\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T08:02:53.918Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\nadin\\source\\repos\\C#AdvancedTopics_Kurs\\C#AdvancedTopics_Course\\Generics\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "Generics\\Models\\Book.cs",
-              "ToolTip": "C:\\Users\\nadin\\source\\repos\\C#AdvancedTopics_Kurs\\C#AdvancedTopics_Course\\Generics\\Models\\Book.cs",
-              "RelativeToolTip": "Generics\\Models\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T07:59:25.613Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BookList.cs",
-              "DocumentMoniker": "C:\\Users\\nadin\\source\\repos\\C#AdvancedTopics_Kurs\\C#AdvancedTopics_Course\\Generics\\BookList.cs",
-              "RelativeDocumentMoniker": "Generics\\BookList.cs",
-              "ToolTip": "C:\\Users\\nadin\\source\\repos\\C#AdvancedTopics_Kurs\\C#AdvancedTopics_Course\\Generics\\BookList.cs",
-              "RelativeToolTip": "Generics\\BookList.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAowC0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T07:58:44.317Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T13:52:40.423Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nadin\\source\\repos\\C#AdvancedTopics_Kurs\\C#AdvancedTopics_Course\\Generics\\Program.cs",
-              "RelativeDocumentMoniker": "Generics\\Program.cs",
-              "ToolTip": "C:\\Users\\nadin\\source\\repos\\C#AdvancedTopics_Kurs\\C#AdvancedTopics_Course\\Generics\\Program.cs",
-              "RelativeToolTip": "Generics\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Title": "VideoEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\nberger\\source\\repos\\CSharpAdvancedTopics_Course\\C#AdvancedTopics_Course\\EventsAndDelegates\\VideoEventArgs.cs",
+              "RelativeDocumentMoniker": "EventsAndDelegates\\VideoEventArgs.cs",
+              "ToolTip": "C:\\Users\\nberger\\source\\repos\\CSharpAdvancedTopics_Course\\C#AdvancedTopics_Course\\EventsAndDelegates\\VideoEventArgs.cs",
+              "RelativeToolTip": "EventsAndDelegates\\VideoEventArgs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T07:54:19.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T12:57:49.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MessageService.cs",
+              "DocumentMoniker": "C:\\Users\\nberger\\source\\repos\\CSharpAdvancedTopics_Course\\C#AdvancedTopics_Course\\EventsAndDelegates\\MessageService.cs",
+              "RelativeDocumentMoniker": "EventsAndDelegates\\MessageService.cs",
+              "ToolTip": "C:\\Users\\nberger\\source\\repos\\CSharpAdvancedTopics_Course\\C#AdvancedTopics_Course\\EventsAndDelegates\\MessageService.cs",
+              "RelativeToolTip": "EventsAndDelegates\\MessageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T12:53:23.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nberger\\source\\repos\\CSharpAdvancedTopics_Course\\C#AdvancedTopics_Course\\EventsAndDelegates\\Program.cs",
+              "RelativeDocumentMoniker": "EventsAndDelegates\\Program.cs",
+              "ToolTip": "C:\\Users\\nberger\\source\\repos\\CSharpAdvancedTopics_Course\\C#AdvancedTopics_Course\\EventsAndDelegates\\Program.cs",
+              "RelativeToolTip": "EventsAndDelegates\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T12:53:10.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MailService.cs",
+              "DocumentMoniker": "C:\\Users\\nberger\\source\\repos\\CSharpAdvancedTopics_Course\\C#AdvancedTopics_Course\\EventsAndDelegates\\MailService.cs",
+              "RelativeDocumentMoniker": "EventsAndDelegates\\MailService.cs",
+              "ToolTip": "C:\\Users\\nberger\\source\\repos\\CSharpAdvancedTopics_Course\\C#AdvancedTopics_Course\\EventsAndDelegates\\MailService.cs",
+              "RelativeToolTip": "EventsAndDelegates\\MailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T12:53:10.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VideoEncoder.cs",
+              "DocumentMoniker": "C:\\Users\\nberger\\source\\repos\\CSharpAdvancedTopics_Course\\C#AdvancedTopics_Course\\EventsAndDelegates\\VideoEncoder.cs",
+              "RelativeDocumentMoniker": "EventsAndDelegates\\VideoEncoder.cs",
+              "ToolTip": "C:\\Users\\nberger\\source\\repos\\CSharpAdvancedTopics_Course\\C#AdvancedTopics_Course\\EventsAndDelegates\\VideoEncoder.cs",
+              "RelativeToolTip": "EventsAndDelegates\\VideoEncoder.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T12:53:09.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Video.cs",
+              "DocumentMoniker": "C:\\Users\\nberger\\source\\repos\\CSharpAdvancedTopics_Course\\C#AdvancedTopics_Course\\EventsAndDelegates\\Video.cs",
+              "RelativeDocumentMoniker": "EventsAndDelegates\\Video.cs",
+              "ToolTip": "C:\\Users\\nberger\\source\\repos\\CSharpAdvancedTopics_Course\\C#AdvancedTopics_Course\\EventsAndDelegates\\Video.cs",
+              "RelativeToolTip": "EventsAndDelegates\\Video.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T12:53:08.11Z"
             }
           ]
         }

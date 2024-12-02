@@ -1,0 +1,15 @@
+C:\Users\nberger\source\repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\ExtensionMethods\bin\Debug\net8.0\ExtensionMethods.exe
+C:\Users\nberger\source\repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\ExtensionMethods\bin\Debug\net8.0\ExtensionMethods.deps.json
+C:\Users\nberger\source\repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\ExtensionMethods\bin\Debug\net8.0\ExtensionMethods.runtimeconfig.json
+C:\Users\nberger\source\repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\ExtensionMethods\bin\Debug\net8.0\ExtensionMethods.dll
+C:\Users\nberger\source\repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\ExtensionMethods\bin\Debug\net8.0\ExtensionMethods.pdb
+C:\Users\nberger\source\repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nberger\source\repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\nberger\source\repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.AssemblyInfo.cs
+C:\Users\nberger\source\repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\nberger\source\repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.sourcelink.json
+C:\Users\nberger\source\repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.dll
+C:\Users\nberger\source\repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\ExtensionMethods\obj\Debug\net8.0\refint\ExtensionMethods.dll
+C:\Users\nberger\source\repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.pdb
+C:\Users\nberger\source\repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.genruntimeconfig.cache
+C:\Users\nberger\source\repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\ExtensionMethods\obj\Debug\net8.0\ref\ExtensionMethods.dll

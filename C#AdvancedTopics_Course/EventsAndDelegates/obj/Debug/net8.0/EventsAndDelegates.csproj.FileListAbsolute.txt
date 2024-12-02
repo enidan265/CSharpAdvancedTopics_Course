@@ -1,0 +1,15 @@
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\EventsAndDelegates\bin\Debug\net8.0\EventsAndDelegates.exe
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\EventsAndDelegates\bin\Debug\net8.0\EventsAndDelegates.deps.json
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\EventsAndDelegates\bin\Debug\net8.0\EventsAndDelegates.runtimeconfig.json
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\EventsAndDelegates\bin\Debug\net8.0\EventsAndDelegates.dll
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\EventsAndDelegates\bin\Debug\net8.0\EventsAndDelegates.pdb
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\EventsAndDelegates\obj\Debug\net8.0\EventsAndDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\EventsAndDelegates\obj\Debug\net8.0\EventsAndDelegates.AssemblyInfoInputs.cache
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\EventsAndDelegates\obj\Debug\net8.0\EventsAndDelegates.AssemblyInfo.cs
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\EventsAndDelegates\obj\Debug\net8.0\EventsAndDelegates.csproj.CoreCompileInputs.cache
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\EventsAndDelegates\obj\Debug\net8.0\EventsAndDelegates.sourcelink.json
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\EventsAndDelegates\obj\Debug\net8.0\EventsAndDelegates.dll
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\EventsAndDelegates\obj\Debug\net8.0\refint\EventsAndDelegates.dll
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\EventsAndDelegates\obj\Debug\net8.0\EventsAndDelegates.pdb
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\EventsAndDelegates\obj\Debug\net8.0\EventsAndDelegates.genruntimeconfig.cache
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\EventsAndDelegates\obj\Debug\net8.0\ref\EventsAndDelegates.dll
