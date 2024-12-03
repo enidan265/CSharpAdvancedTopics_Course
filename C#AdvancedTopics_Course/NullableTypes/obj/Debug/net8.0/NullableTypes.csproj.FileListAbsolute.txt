@@ -1,0 +1,15 @@
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\NullableTypes\bin\Debug\net8.0\NullableTypes.exe
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\NullableTypes\bin\Debug\net8.0\NullableTypes.deps.json
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\NullableTypes\bin\Debug\net8.0\NullableTypes.runtimeconfig.json
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\NullableTypes\bin\Debug\net8.0\NullableTypes.dll
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\NullableTypes\bin\Debug\net8.0\NullableTypes.pdb
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\NullableTypes\obj\Debug\net8.0\NullableTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\NullableTypes\obj\Debug\net8.0\NullableTypes.AssemblyInfoInputs.cache
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\NullableTypes\obj\Debug\net8.0\NullableTypes.AssemblyInfo.cs
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\NullableTypes\obj\Debug\net8.0\NullableTypes.csproj.CoreCompileInputs.cache
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\NullableTypes\obj\Debug\net8.0\NullableTypes.sourcelink.json
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\NullableTypes\obj\Debug\net8.0\NullableTypes.dll
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\NullableTypes\obj\Debug\net8.0\refint\NullableTypes.dll
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\NullableTypes\obj\Debug\net8.0\NullableTypes.pdb
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\NullableTypes\obj\Debug\net8.0\NullableTypes.genruntimeconfig.cache
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\NullableTypes\obj\Debug\net8.0\ref\NullableTypes.dll

@@ -36,23 +36,31 @@
 
             var cheapBooks3 = books.Select(b => b.Title);
 
-
-
             var oneBook = books.Single(b => b.Title == "ASP.NET MVC");
 
+            var firstBook = books.First(b => b.Title == "C# Advanced Topics");
 
+            var skipBooks = books.Skip(2);
 
-            Console.WriteLine(oneBook.Title);
+            var skipTakeBooks = books.Skip(2).Take(4);
 
+            var maxPrice = books.Max(b => b.Price);
+            var minPrice = books.Min(b => b.Price);
+            var totalPrice = books.Sum(b => b.Price);
+            var avgPrice = books.Average(b => b.Price);
 
-
+           
+            Console.WriteLine(maxPrice);
+            Console.WriteLine(minPrice);
+            Console.WriteLine(totalPrice);
+            Console.WriteLine(avgPrice);
 
 
             //Console.WriteLine("Ausgabe mit LINQ: ");
-            foreach (var book in cheapBooks2)
+            foreach (var book in skipTakeBooks)
             {
                 //Console.WriteLine(book);
-                //Console.WriteLine(book.Title + " " + book.Price);
+                Console.WriteLine(book.Title + " " + book.Price);
             }
 
 

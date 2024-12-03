@@ -1,0 +1,15 @@
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\AsynchonousProgrammierung\bin\Debug\AsynchonousProgrammierung.exe.config
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\AsynchonousProgrammierung\bin\Debug\AsynchonousProgrammierung.exe
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\AsynchonousProgrammierung\bin\Debug\AsynchonousProgrammierung.pdb
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\AsynchonousProgrammierung\obj\Debug\AsynchonousProgrammierung.csproj.AssemblyReference.cache
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\AsynchonousProgrammierung\obj\Debug\MainWindow.g.cs
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\AsynchonousProgrammierung\obj\Debug\App.g.cs
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\AsynchonousProgrammierung\obj\Debug\AsynchonousProgrammierung_MarkupCompile.cache
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\AsynchonousProgrammierung\obj\Debug\AsynchonousProgrammierung_MarkupCompile.lref
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\AsynchonousProgrammierung\obj\Debug\MainWindow.baml
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\AsynchonousProgrammierung\obj\Debug\AsynchonousProgrammierung.g.resources
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\AsynchonousProgrammierung\obj\Debug\AsynchonousProgrammierung.Properties.Resources.resources
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\AsynchonousProgrammierung\obj\Debug\AsynchonousProgrammierung.csproj.GenerateResource.cache
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\AsynchonousProgrammierung\obj\Debug\AsynchonousProgrammierung.csproj.CoreCompileInputs.cache
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\AsynchonousProgrammierung\obj\Debug\AsynchonousProgrammierung.exe
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\AsynchonousProgrammierung\obj\Debug\AsynchonousProgrammierung.pdb

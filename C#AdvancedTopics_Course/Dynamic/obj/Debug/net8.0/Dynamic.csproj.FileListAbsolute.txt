@@ -1,0 +1,15 @@
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\Dynamic\bin\Debug\net8.0\Dynamic.exe
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\Dynamic\bin\Debug\net8.0\Dynamic.deps.json
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\Dynamic\bin\Debug\net8.0\Dynamic.runtimeconfig.json
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\Dynamic\bin\Debug\net8.0\Dynamic.dll
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\Dynamic\bin\Debug\net8.0\Dynamic.pdb
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\Dynamic\obj\Debug\net8.0\Dynamic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\Dynamic\obj\Debug\net8.0\Dynamic.AssemblyInfoInputs.cache
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\Dynamic\obj\Debug\net8.0\Dynamic.AssemblyInfo.cs
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\Dynamic\obj\Debug\net8.0\Dynamic.csproj.CoreCompileInputs.cache
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\Dynamic\obj\Debug\net8.0\Dynamic.sourcelink.json
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\Dynamic\obj\Debug\net8.0\Dynamic.dll
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\Dynamic\obj\Debug\net8.0\refint\Dynamic.dll
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\Dynamic\obj\Debug\net8.0\Dynamic.pdb
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\Dynamic\obj\Debug\net8.0\Dynamic.genruntimeconfig.cache
+C:\Users\nberger\Source\Repos\CSharpAdvancedTopics_Course\C#AdvancedTopics_Course\Dynamic\obj\Debug\net8.0\ref\Dynamic.dll
