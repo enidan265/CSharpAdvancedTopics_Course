@@ -19,12 +19,13 @@
                 }
             }
 
-            Console.WriteLine("Ausgabe ohne LINQ:");
+            //Console.WriteLine("Ausgabe ohne LINQ:");
             foreach (var book in cheapBooks)
             {
-                Console.WriteLine(book.Title + " " + book.Price);
+                //Console.WriteLine(book.Title + " " + book.Price);
             }
             Console.WriteLine();
+
 
             // mit LINQ
 
@@ -33,14 +34,34 @@
                                 .OrderBy(b => b.Title)
                                 .Select(b => b.Title);
 
-            Console.WriteLine("Ausgabe mit LINQ: ");
+            var cheapBooks3 = books.Select(b => b.Title);
+
+
+
+            var oneBook = books.Single(b => b.Title == "ASP.NET MVC");
+
+
+
+            Console.WriteLine(oneBook.Title);
+
+
+
+
+
+            //Console.WriteLine("Ausgabe mit LINQ: ");
             foreach (var book in cheapBooks2)
             {
-                Console.WriteLine(book);
+                //Console.WriteLine(book);
                 //Console.WriteLine(book.Title + " " + book.Price);
             }
 
 
+        }
+
+        // Selector
+        public static string BookTitleSelector(Book book)
+        {
+            return book.Title;
         }
     }
 }
