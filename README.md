@@ -1,5 +1,8 @@
 <h1>🚀 C# Advanced Topics - Course code</h1>
-<i>This repository contains the code examples and exercises from the course, which covers advanced concepts in C#.</i>
+<i>This repository contains the code examples and exercises from the course, which covers advanced concepts in C#.<br>
+
+<a href="https://www.udemy.com/course/csharp-advanced/?couponCode=KEEPLEARNING" target="_blank">Link to couse</a></i>
+
 
 <h2>📚 Topic overview</h2>
 <ul>
